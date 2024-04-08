@@ -1,9 +1,6 @@
-from app import generate_brd
+from app import BRD_Generator
 
 if __name__ == "__main__":
     text = "Face Recognition System"
-    result = generate_brd(text)
-    print(result)
-
-
-    
+    result = BRD_Generator(text)
+    print(result.generate_brd())
