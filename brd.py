@@ -41,16 +41,3 @@ class BRD_Generator:
 
             filtered_list.append(topic.strip())
         return filtered_list
-
-
-
-
-
-
-
-
-
-
-
-
-
