@@ -1,4 +1,4 @@
-from app import BRD_Generator
+from Application.brd import BRD_Generator
 
 if __name__ == "__main__":
     text = "Face Recognition System"
