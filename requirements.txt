@@ -1,0 +1,8 @@
+langchain_community==0.0.34
+langchain==0.1.16
+python-dotenv==1.0.1
+fpdf==1.7.2
+flask==3.0.3
+openai==1.23.6
+pypdf==4.2.0
+tiktoken==0.6.0
