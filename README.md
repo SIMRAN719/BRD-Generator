@@ -1,1 +1,1 @@
-# BARDY (BRD Generator)
+# Proposify
