@@ -6,3 +6,5 @@ flask==3.0.3
 openai==1.23.6
 pypdf==4.2.0
 tiktoken==0.6.0
+
+#pytz, watchdog, tzdata, tornado, toolz, toml, smmap, six, rpds-py, pygments, pyarrow, protobuf, pillow, mdurl, cachetools, referencing, python-dateutil, pydeck, markdown-it-py, gitdb, rich, pandas, jsonschema-specifications, gitpython, jsonschema, altair, streamlit
