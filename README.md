@@ -35,7 +35,7 @@ Proposify is a powerful Streamlit application designed to help you generate comp
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/proposify.git
+    git clone https://github.com/SIMRAN719/Proposify.git
     cd proposify
     ```
 
